@@ -1,0 +1,19 @@
+1.Game designer: Responsible for creating the overall concept and design of the game, including the game mechanics, story, and level design.
+
+2.Game developer: Responsible for programming and implementing the game mechanics, using programming languages such as C++ or C#.
+
+3.Artist: Responsible for creating the game's visual assets, such as characters, environments, and special effects.
+
+4.Sound designer: Responsible for creating and implementing the game's audio, including music, sound effects, and voice-overs.
+
+5.Project manager: Responsible for coordinating the work of the team, setting deadlines, and ensuring that the project is completed on schedule and within budget.
+
+6.Quality assurance: Responsible for testing the game to ensure that it is free from bugs and that the gameplay is balanced and fun.
+
+7.Game tester: Responsible for testing the game to ensure that it is free from bugs and that the gameplay is balanced and fun.
+
+8.Marketing and PR: Responsible for promoting the game to potential players and the media.
+
+9.Community manager: Responsible for building and managing the game's community, including social media, forums, and customer support.
+
+10.Business developer: Responsible for identifying and securing new business opportunities and partnerships for the studio.

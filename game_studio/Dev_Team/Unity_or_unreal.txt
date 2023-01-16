@@ -1,0 +1,7 @@
+Unity is a cross-platform game engine that is widely used for creating 2D and 3D games, as well as virtual and augmented reality (VR and AR) applications. Unity is known for its ease of use, wide range of features, and strong community support. It's also a great choice for beginners, as it has a large number of tutorials and resources available.
+
+Unreal Engine is a powerful game engine that is used to create high-quality 3D and 2D games, as well as VR and AR applications. Unreal Engine is known for its powerful graphics capabilities, and it's a great choice for creating visually stunning games. It's also a good choice for advanced users, as it has a steeper learning curve and requires more programming skills.
+
+So, if you're just starting out in game development, Unity is likely the better choice as it is more beginner-friendly and has a larger community of developers that can help you with your projects. But if you're looking to create visually stunning games, Unreal Engine is the better choice, but it also requires more programming skills and experience.
+
+Ultimately, it's important to consider your own goals, experience, and preferences when choosing which game engine to focus on. If you're not sure which one to choose, you can try both of them, and then decide which one suits you best.

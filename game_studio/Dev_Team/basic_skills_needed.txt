@@ -1,0 +1,29 @@
+For Unity:
+
+"The Complete Unity Game Developer Course - Beginner to Advanced" (recommended for beginners)
+"Complete C# Unity Game Developer 2D" (recommended for beginners)
+"Unity Game Development: Build 2D & 3D Games" (recommended for intermediate)
+"Build Your Own First Person Shooter / Survival Game in Unity" (recommended for intermediate)
+"Game Audio: From Beginner to Pro" (recommended for intermediate)
+"Unity Game Audio: Create Sound Effects, Music and Voiceovers" (recommended for intermediate)
+"Unity 2D Game Development: Create a 2D Platformer Game" (recommended for intermediate)
+"Unity Game Physics: A Practical Guide" (recommended for intermediate)
+"Unity Game AI: A Practical Guide" (recommended for advanced)
+"Unity Game Optimization: Tips & Tricks" (recommended for advanced)
+"Game Marketing and PR: How to Promote Your Game" (recommended for advanced)
+"Game Analytics: Understand Your Players and Improve Your Game" (recommended for advanced)
+
+
+
+As for the Unreal Engine the order should be :
+
+
+"Unreal Engine C++ The Ultimate Game Developer Course" (recommended for beginners)
+"Unreal Engine 4: How to Develop Your First Two Games" (recommended for intermediate)
+"Create Your Own RPG Game: Unreal Engine 4 Blueprint" (recommended for intermediate)
+"The Complete Game Audio Tutorial: From Sound Design to Music" (recommended for intermediate)
+"Unreal Engine 4: How to Create and Integrate Music and Sound Effects" (recommended for intermediate)
+"Unreal Engine 4: How to Create a First-Person Shooter" (recommended for intermediate)
+"Unreal Engine 4: How to Create Physics-based Game Mechanics" (recommended for intermediate)
+"Unreal Engine 4: How to Create AI for Games" (recommended for advanced)
+"Unreal Engine 4: How to Optimize Your Games" (recommended for advanced)

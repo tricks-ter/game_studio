@@ -1,0 +1,93 @@
+Game Development Courses:
+
+"The Complete Unity Game Developer Course - Beginner to Advanced" (recommended)
+"Unreal Engine C++ The Ultimate Game Developer Course" (recommended)
+"Unity Game Development: Build 2D & 3D Games"
+"Complete C# Unity Game Developer 2D"
+"Unreal Engine 4: How to Develop Your First Two Games"
+"Unity and C# : Create Your First Game with Unity and C#"
+"Build Your Own First Person Shooter / Survival Game in Unity"
+"Game Monetization: Earn Money from Your Game"
+"Game Development: From Zero to Hero"
+"Create Your Own RPG Game: Unreal Engine 4 Blueprint"
+
+
+Sound Design and Integration Courses:
+
+"Game Audio: From Beginner to Pro" (recommended)
+"The Complete Game Audio Tutorial: From Sound Design to Music"
+"Unity Game Audio: Create Sound Effects, Music and Voiceovers"
+"Unreal Engine 4: How to Create and Integrate Music and Sound Effects"
+"Video Game Sound Design: From Zero to Hero"
+"Sound Design for Virtual Reality: A Comprehensive Guide"
+"Game Sound Design: The Complete Guide"
+"Unreal Engine 4: Advanced Sound Design"
+"Game Audio Programming: Creating Sound Engines"
+"Unity: Build a Soundboard Application"
+
+
+UI/UX Design Courses:
+
+"UI/UX Design for Game Developers: Design Great Games" (recommended)
+"UX Design for Mobile Games"
+"UX Design Fundamentals"
+"UX Design for Web and Mobile"
+"UI Design for Mobile Apps"
+"Sketch for UI/UX Designers"
+"Adobe XD for UI/UX Designers"
+
+
+Game animation:
+
+"Unity 2D Game Development: Create a 2D Platformer Game"
+"Unreal Engine 4: How to Create a First-Person Shooter"
+"Blender 3D Character Animation: Bring Your Models to Life"
+
+
+Game physics:
+
+"Unity Game Physics: A Practical Guide"
+"Unreal Engine 4: How to Create Physics-based Game Mechanics"
+"Game Physics for Developers"
+
+
+Game AI:
+
+"Unity Game AI: A Practical Guide"
+"Unreal Engine 4: How to Create AI for Games"
+"AI for Game Developers"
+
+
+Game optimization:
+
+"Unity Game Optimization: Tips & Tricks"
+"Unreal Engine 4: How to Optimize Your Games"
+"Game Optimization Techniques"
+
+
+Game marketing and promotion:
+
+"Game Marketing and PR: How to Promote Your Game"
+"Social Media Marketing for Game Developers"
+"Influencer Marketing for Game Developers"
+
+
+Game analytics:
+
+"Game Analytics: Understand Your Players and Improve Your Game"
+"Google Analytics for Game Developers"
+"Game Metrics and Analytics"
+
+
+Game project management:
+
+"Game Project Management: Agile Methodologies"
+"Scrum for Game Development"
+"Team Communication in Game Development"
+
+Game Monetization strategies:
+
+"Game Monetization: Earn Money from Your Game" (recommended)
+"Game Monetization Strategies: In-App Purchases, Advertising and Sponsorships"
+"Freemium Game Monetization: How to Make Money with Free Games"
+"Game Monetization Mastery: From Zero to Hero"

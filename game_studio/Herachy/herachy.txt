@@ -1,0 +1,16 @@
+1.CEO/Studio Head: This person is responsible for overall leadership and vision of the studio, as well as making strategic decisions.
+
+2.COO/Studio Manager: This person is responsible for overseeing the day-to-day operations of the studio, such as finances, HR, and legal issues.
+
+3.Game Development Team: This team is responsible for the actual creation of the games, and it typically includes roles such as game designers, developers, artists, and sound designers.
+
+4.Quality Assurance Team: This team is responsible for testing the games to ensure they are bug-free and fun to play.
+
+5.Business Development Team: This team is responsible for identifying and securing new business opportunities and partnerships for the studio, such as publishing deals or funding.
+
+6.Marketing and PR Team: This team is responsible for promoting the games to potential players and the media, as well as building and managing the studio's online presence.
+
+7.Community Management Team: This team is responsible for building and managing the game's community, including social media, forums, and customer support
+
+8.Executive Team: This team includes the CEO/Studio Head, COO/Studio Manager, and other executives responsible for leading the studio's strategy and decision-making.
+
